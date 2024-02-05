@@ -1,5 +1,5 @@
 #  🧑🏻‍🦱Hello 👋, I'm Parvez Mahbub
-💫 About Me:<br><br>👯 I’m looking to collaborate on any projects related to <br>      front-end development.<br>🤝🐮 I'm looking for help with advanced programming concepts <br>      and techniques in Python and other programming languages.<br>🌱 I'm currently learning React.js and Angular.js.<br>⚡ Fun fact : in my free time😎
+💫 About Me:<br><br>👯 I’m looking to collaborate on any projects related to <br>            front-end development.<br>🤝🐮 I'm looking for help with advanced programming concepts <br>         and techniques in Python and other programming languages.<br>🌱 I'm currently learning React.js and Angular.js.<br>⚡ Fun fact : in my free time😎
 
 
 ## 🌐 Socials:
